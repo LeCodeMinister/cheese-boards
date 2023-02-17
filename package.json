@@ -4,11 +4,7 @@
   "description": "A Sequelize DB for users to collect cheeses and place them on boards",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch-all --verbose",
-    "test:coverage": "jest --verbose --collect-coverage"
-  },
-  "jest": {
-    "collectCoverage": true
+    "test": "jest --watch-all --verbose"
   },
   "repository": {
     "type": "git",
